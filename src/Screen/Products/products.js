@@ -113,7 +113,7 @@ const Products = () => {
                         {
                             productDetail.product.map((item, index) => {
                                 return (
-                                    {/* please watch the video for code */}
+                                    {/* hi  */}
                                 );
 
                             })

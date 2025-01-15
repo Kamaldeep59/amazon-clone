@@ -36,7 +36,7 @@ const Cart = () => {
                             return (
                                 <div className="cartItemBlock">
                                     <div className="cartItemLeftBlock">
-                                        {/* Please watch the video for the code  */}
+                                        
                                     </div>
 
                                     <div className="cartItemRightBlock">

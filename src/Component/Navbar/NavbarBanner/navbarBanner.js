@@ -8,7 +8,13 @@ const NavbarBanner = () => {
     { "name": "Amazon miniT" },
     { "name": "Sell" },
     { "name": "Best Sellers" },
-    { "name": "Today's Deals" }, { "name": "Mobiles" }, { "name": "Electronics" }, { "name": "Prime" }, { "name": "Customer Service" }, { "name": "Fashion" }, { "name": "Home & Kitchen" }
+    { "name": "Today's Deals" }, 
+    { "name": "Mobiles" }, 
+    { "name": "Electronics" }, 
+    { "name": "Prime" },
+    { "name": "Customer Service" }, 
+    { "name": "Fashion" }, 
+    { "name": "Home & Kitchen" }
   ]
   return (
     <div className="navbarBanner">

@@ -174,7 +174,7 @@ const HomeDetails = () => {
 
           <div className="scrollDiv">
 
-            {/* please watch the video for code */}
+
 
             <div className="homeDetailLongCardItem">
               <img className='homeDetailLongCardItemImg' src="https://m.media-amazon.com/images/I/41WnWm3IjiL._AC_SY200_.jpg" />
@@ -198,7 +198,7 @@ const HomeDetails = () => {
             <div className="homeDetailLongCardItem">
               <img className='homeDetailLongCardItemImg' src="https://m.media-amazon.com/images/I/41WnWm3IjiL._AC_SY200_.jpg" />
 
-              {/* please watch the video for code */}
+
             </div>
 
             <div className="homeDetailLongCardItem">
@@ -206,7 +206,7 @@ const HomeDetails = () => {
               <div className="homeDetailLongCardItemImgDetail">
 
                 <div className="homeDetailLongCardItemImgTopDetail">
-                 {/* please watch the video for code */}
+
                 </div>
 
                 <div className="bottomHomeDetail">
@@ -236,7 +236,7 @@ const HomeDetails = () => {
 
             <div className="homeDetailLongCardItem">
               <img className='homeDetailLongCardItemImg' src="https://m.media-amazon.com/images/I/41WnWm3IjiL._AC_SY200_.jpg" />
-              {/* please watch the video for code */}
+
             </div>
 
             <div className="homeDetailLongCardItem">
