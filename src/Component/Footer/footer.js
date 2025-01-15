@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="footerContent">
                 <div className="footerCont1">
                     <div className="contentFooterTitle">Get To Know Us</div>
-                    {/* please watch the video for code */}
+                    
 
                 </div>
                 <div className="footerCont1">
@@ -21,12 +21,12 @@ const Footer = () => {
 
                 <div className="footerCont1">
                     <div className="contentFooterTitle">Make Money With US</div>
-                    {/* please watch the video for code */}
+                    
                 </div>
                 
                 <div className="footerCont1">
                     <div className="contentFooterTitle">Lets Us Help You</div>
-                    {/* please watch the video for code */}
+                  
                 </div>
             </div>
             <div className="amazonImg">
